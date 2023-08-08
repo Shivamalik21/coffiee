@@ -87,4 +87,8 @@ li{
    
     
 }
+img:hover{
+    box-shadow:0px 18px 18px black;
+    width:152px;
+    height:152px;
 
